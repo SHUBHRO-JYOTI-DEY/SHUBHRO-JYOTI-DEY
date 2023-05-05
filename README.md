@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Symphony AI<br>👯 I’m looking to collaborate on Machine Learning projects/papers<br>🌱 I’m currently learning Javascript/Typescript and MERN<br>⚡ Fun fact: I am a published Photographer
+🔭 I’m currently working at Symphony AI<br>👯 I’m looking to collaborate on Python, Machine Learning/AI<br>🌱 I’m currently learning Javascript/Typescript and MERN<br>⚡ Fun fact: I am a published Photographer
 
 
 ## 🌐 Socials:
@@ -18,20 +18,8 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=shubhrojyotide1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubhro-jyoti-dey&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=shubhro-jyoti-dey&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shubhrojyotidey) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shubhrojyotidey) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
